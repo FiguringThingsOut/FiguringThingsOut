@@ -11,17 +11,13 @@
 ---
 
 ### Language & Tools
-<img align="left" alt="Python" width="70px" src="images/5848152fcef1014c0b5e4967.png" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="70px" src="images/Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Jupyter Notebook" width="60px" src="images/1200px-Jupyter_logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Numpy" width="150px" src="images/1200px-NumPy_logo_2020.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Pandas" width="150px" src="images/Pandas_logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Scikit - Learn" width="120px" src="images/1280px-Scikit_learn_logo_small.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Tableau" width="120px" src="images/Tableau-Emblem.png" style="padding-right:10px;" />
-
-
-[linkedinwebpage]: 
-
+<img align="left" alt="Python" width="40px" src="images/5848152fcef1014c0b5e4967.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="40px" src="images/Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Jupyter Notebook" width="35px" src="images/1200px-Jupyter_logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Numpy" width="100px" src="images/1200px-NumPy_logo_2020.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Pandas" width="100px" src="images/Pandas_logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Scikit - Learn" width="70px" src="images/1280px-Scikit_learn_logo_small.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Tableau" width="70px" src="images/Tableau-Emblem.png" style="padding-right:10px;" />
 
 <!---
 FiguringThingsOut/FiguringThingsOut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
