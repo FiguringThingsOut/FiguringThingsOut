@@ -2,6 +2,14 @@
 - 🌱 I’m currently learning Data Analysis & Machine Learning
 
 ---
+### My Project : 
+- [Telco Customer Churn](https://nbviewer.org/github/FiguringThingsOut/DS---Portfolio/blob/main/Supervised_ML_TelcoCustomerChurn/Supervised%20Learning%20-%20TELCO%20Customer%20Churn.ipynb)
+
+
+
+
+---
+---
 
 
 ### Check me out on : 
