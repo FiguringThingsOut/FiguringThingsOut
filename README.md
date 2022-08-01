@@ -15,12 +15,8 @@
   - Check & clean our data
   - Exploring our data to find out why customer churn
   - Using supervised learning to predict churn customer :
-    - Model selection
-    - Hyperparameter tuning
-    - Handling imbalance by using resampling method & adjust trehshold
-    - Feature Importance
-    - Conclussion, Recommendation
-    - Deployment using Pickle
+    - Model selection, Hyperparameter tuning, Handling imbalance by using resampling method & adjust trehshold, Feature Importance, Conclussion, Recommendation
+  - Deployment using Pickle
   - Resume : 
     - Algorithm : GradientBoost 
     - resampling method : SMOTENC
