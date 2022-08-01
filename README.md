@@ -3,7 +3,13 @@
 
 ---
 ### My Project : 
-- [**Data Analysis - Northwind Traders**]
+- [**Data Analysis - Northwind Traders**](https://nbviewer.org/github/FiguringThingsOut/DataSciencePortofolio/blob/5eaad361260b61cdd4339d208100e8d505bcb748/DataAnalysis%20-%20NorthwindTraders/NorthwindTraders.ipynb)
+  - Connect SQL to Python
+  - Combine data from several tables
+  - Instance of using CTE & window function (SQL)
+  - Data exploration & data cleaning (check for missing values, duplicate data, wrong formatting, inconsistency typing, etc)
+  - Data visualization & statistics
+  - Resume : SQL, Visualization using TABLEAU & Python package (seaborn), hyphothesis testing, Insight from our graph
 
 - [**Supervised Learning - Telco Customer Churn**](https://nbviewer.org/github/FiguringThingsOut/DataSciencePortofolio/blob/main/Supervised_ML_TelcoCustomerChurn/Supervised%20Learning%20-%20TELCO%20Customer%20Churn%20R1.ipynb)
   - Check & clean our data
