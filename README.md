@@ -3,6 +3,8 @@
 
 ---
 ### My Project : 
+- [**Data Analysis - Northwind Traders**]
+
 - [**Supervised Learning - Telco Customer Churn**](https://nbviewer.org/github/FiguringThingsOut/DataSciencePortofolio/blob/main/Supervised_ML_TelcoCustomerChurn/Supervised%20Learning%20-%20TELCO%20Customer%20Churn%20R1.ipynb)
   - Check & clean our data
   - Exploring our data to find out why customer churn
