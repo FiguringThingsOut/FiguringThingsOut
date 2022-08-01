@@ -3,7 +3,21 @@
 
 ---
 ### My Project : 
-- [Telco Customer Churn](https://nbviewer.org/github/FiguringThingsOut/DS---Portfolio/blob/main/Supervised_ML_TelcoCustomerChurn/Supervised%20Learning%20-%20TELCO%20Customer%20Churn.ipynb)
+- [**Telco Customer Churn**](https://nbviewer.org/github/FiguringThingsOut/DataSciencePortofolio/blob/main/Supervised_ML_TelcoCustomerChurn/Supervised%20Learning%20-%20TELCO%20Customer%20Churn%20R1.ipynb)
+  - Check & clean our data
+  - Exploring our data to find out why customer churn
+  - Using supervised learning to predict churn customer
+  - Model selection
+  - Hyperparameter tuning
+  - Handling imbalance by using resampling method & adjust trehshold
+  - Feature Importance
+  - Conclussion, Recommendation
+  - Deployment using Pickle
+  - Resume : 
+    - Algorithm : GradientBoost 
+    - resampling method : SMOTENC
+    - `Recall score` : CV : 82.33%, Score on Test Set @50% Threshold : 82.94%,  Score on Test Set @40% Threshold : 91.08%
+    - 3 Most important features are : tenure, contract, InternetServices
 
 
 
