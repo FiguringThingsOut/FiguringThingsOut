@@ -16,13 +16,10 @@
   - Resume : 
     - Algorithm : GradientBoost 
     - resampling method : SMOTENC
-    - `Recall score` : CV : 82.33%, Score on Test Set @50% Threshold : 82.94%,  Score on Test Set @40% Threshold : 91.08%
+    - `Recall score` on CV : 82.33%, Score on Test Set @50% Threshold : 82.94%,  Score on Test Set @40% Threshold : 91.08%
     - 3 Most important features are : tenure, contract, InternetServices
 
 
-
-
----
 ---
 
 
