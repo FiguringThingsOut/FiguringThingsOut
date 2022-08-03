@@ -7,7 +7,7 @@ Check my Portofolio Project Folder [**here**](https://github.com/FiguringThingsO
 
 - [**Data Analysis - Northwind Traders**](https://github.com/FiguringThingsOut/DataSciencePortofolio/blob/main/DataAnalysis%20-%20NorthwindTraders/NorthwindTraders.ipynb)
 
-  If the given link took a while or fail, please check out with nbviewer [**here**](https://nbviewer.org/github/FiguringThingsOut/DataSciencePortofolio/blob/5eaad361260b61cdd4339d208100e8d505bcb748/DataAnalysis%20-%20NorthwindTraders/NorthwindTraders.ipynb)
+  If the given link took a while or fail, please check out with nbviewer [**here**](https://nbviewer.org/github/FiguringThingsOut/DataSciencePortofolio/blob/a5c47f43d71c103851ba9ad5032eb0727e5d2812/DataAnalysis%20-%20NorthwindTraders/NorthwindTraders.ipynb)
   - SQL : Connect SQL to Python, Combine data from several tables, Instance of using CTE & window function (SQL)
   - Data exploration & data cleaning (check for missing values, duplicate data, wrong formatting, inconsistency typing, etc)
   - Data visualization & statistics
