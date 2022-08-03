@@ -4,13 +4,18 @@
 ---
 ### My Project : 
 Check my Portofolio Project Folder [**here**](https://github.com/FiguringThingsOut/DataSciencePortofolio)<br><br>
+
 - [**Data Analysis - Northwind Traders**](https://github.com/FiguringThingsOut/DataSciencePortofolio/blob/main/DataAnalysis%20-%20NorthwindTraders/NorthwindTraders.ipynb)
+
+  If the given link took a while or fail, please check out with nbviewer [**here**](https://nbviewer.org/github/FiguringThingsOut/DataSciencePortofolio/blob/5eaad361260b61cdd4339d208100e8d505bcb748/DataAnalysis%20-%20NorthwindTraders/NorthwindTraders.ipynb)
   - SQL : Connect SQL to Python, Combine data from several tables, Instance of using CTE & window function (SQL)
   - Data exploration & data cleaning (check for missing values, duplicate data, wrong formatting, inconsistency typing, etc)
   - Data visualization & statistics
   - Resume : SQL, Visualization using TABLEAU & Python package (seaborn), hyphothesis testing, Insight from our graph
 
 - [**Supervised Learning - Telco Customer Churn**](https://github.com/FiguringThingsOut/DataSciencePortofolio/blob/main/Supervised_ML_TelcoCustomerChurn/Supervised%20Learning%20-%20TELCO%20Customer%20Churn%20R1.ipynb)
+
+  If the given link took a while or fail, please check out with nbviewer [**here**](https://nbviewer.org/github/FiguringThingsOut/DataSciencePortofolio/blob/main/Supervised_ML_TelcoCustomerChurn/Supervised%20Learning%20-%20TELCO%20Customer%20Churn%20R1.ipynb)
   - Data works : Check & clean our data, Exploring our data to find out why customer churn
   - Using supervised learning to predict churn customer :
     - Model selection, Hyperparameter tuning, Handling imbalance by using resampling method & adjust trehshold, Feature Importance, Conclussion, Recommendation
@@ -21,8 +26,9 @@ Check my Portofolio Project Folder [**here**](https://github.com/FiguringThingsO
     - `Recall score` on CV : 82.33%, Score on Test Set @50% Threshold : 82.94%,  Score on Test Set @40% Threshold : 91.08%
     - 3 Most important features are : tenure, contract, InternetServices
 
-- [**NLP - Text Processing - Olist Brazillian Ecommerce**](https://github.com/FiguringThingsOut/DataSciencePortofolio/blob/main/SentimentAnalysis%20-%20BrazillianEcommerce/P_Final_Project_AlphaTeam_SentimentAnalysis_R0.ipynb)<br>
-  If the given link fails, please check out with nbviewer [**here**](https://nbviewer.org/github/FiguringThingsOut/Final_Project_Sentiment_Analysis/blob/4ff44e16f2950fe01e470f9dcdee7353d1d6cf3e/P_Final_Project_AlphaTeam_SentimentAnalysis_R0.ipynb)
+- [**NLP - Text Processing - Olist Brazillian Ecommerce**](https://github.com/FiguringThingsOut/DataSciencePortofolio/blob/main/SentimentAnalysis%20-%20BrazillianEcommerce/P_Final_Project_AlphaTeam_SentimentAnalysis_R0.ipynb)
+
+  If the given link took a while or fail, please check out with nbviewer [**here**](https://nbviewer.org/github/FiguringThingsOut/Final_Project_Sentiment_Analysis/blob/4ff44e16f2950fe01e470f9dcdee7353d1d6cf3e/P_Final_Project_AlphaTeam_SentimentAnalysis_R0.ipynb)
   - Data works : Import data, understanding data, join multiple table for EDA & machine learning, data cleaning.
   - Exploratory Data Analysis (this is an iterative process while studying the review comment message). Visualization using python package & TABLEAU Public
   - Text processing : 
