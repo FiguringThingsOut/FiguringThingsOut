@@ -23,8 +23,9 @@ Check my Portofolio Project Folder [**here**](https://github.com/FiguringThingsO
   - Resume : 
     - Algorithm : GradientBoost 
     - resampling method : SMOTENC
-    - `Recall score` on CV : 82.33%, Score on Test Set @50% Threshold : 82.94%,  Score on Test Set @40% Threshold : 91.08%
     - 3 Most important features are : tenure, contract, InternetServices
+    - `Recall score` on Test Set @40% Threshold : 89.5% (hyperparameter tuning, feature selection)
+
 
 - [**NLP - Text Processing - Olist Brazillian Ecommerce**](https://github.com/FiguringThingsOut/DataSciencePortofolio/blob/main/SentimentAnalysis%20-%20BrazillianEcommerce/P_Final_Project_AlphaTeam_SentimentAnalysis_R0.ipynb)
 
